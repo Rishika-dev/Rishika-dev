@@ -62,3 +62,8 @@
 <img src="https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
