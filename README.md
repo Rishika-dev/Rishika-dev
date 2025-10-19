@@ -64,7 +64,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
@@ -107,16 +107,21 @@ Sunday                   88 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 5 mins         █████████████░░░░░░░░░░░░   50.72 % 
+YAML                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Markdown                 21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Docker                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+hello-action             1 hr 33 mins        ██████████████████░░░░░░░   72.21 % 
+waka-readme-stats        36 mins             ███████░░░░░░░░░░░░░░░░░░   27.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +141,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 18:47:43 UTC
+ Last Updated on 19/10/2025 14:42:01 UTC
 <!--END_SECTION:waka-->
 
 ###
