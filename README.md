@@ -147,3 +147,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ###
+
+<!--START_SECTION:gif-->
+![GIF](assets/hello.gif)
+<!--END_SECTION:gif-->
