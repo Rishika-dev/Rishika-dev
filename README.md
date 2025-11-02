@@ -145,9 +145,3 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
  Last Updated on 26/10/2025 18:49:00 UTC
 <!--END_SECTION:waka-->
-
-###
-
-<!--START_SECTION:gif-->
-![GIF](assets/hello.gif)
-<!--END_SECTION:gif-->
