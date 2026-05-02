@@ -57,7 +57,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -100,16 +100,18 @@ Sunday                   166 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 9 mins              █████████████████████████   100.00 % 
+Markdown                 9 mins              ███████████████████░░░░░░   76.70 % 
+TypeScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
 
 🔥 Editors: 
-Cursor                   9 mins              █████████████████████████   100.00 % 
+Cursor                   13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 mins              █████████████████████████   100.00 % 
+Unknown Project          9 mins              ███████████████████░░░░░░   76.70 % 
+pitchanite-backend       3 mins              ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -129,5 +131,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 18:53:29 UTC
+ Last Updated on 02/05/2026 18:51:00 UTC
 <!--END_SECTION:waka-->
