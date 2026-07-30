@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -102,42 +102,45 @@ Sunday                   164 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 mins             ███████████████████████░░   92.41 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+TypeScript               26 mins             ██████████████████░░░░░░░   73.14 % 
+Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-Claude Code              15 mins             ██████████████████████░░░   88.78 % 
-Cursor                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Claude Code              35 mins             ████████████████████████░   97.66 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🐱‍💻 Projects: 
-odour-nest               16 mins             ████████████████████████░   94.70 % 
-observer-sessions        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+breazy-backend           20 mins             ██████████████░░░░░░░░░░░   55.70 % 
+odour-nest               10 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+breazy                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+breayz-frontend          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+observer-sessions        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (96.0%)
+⏱ AI Coding Time: 36 mins (100.0%)
 
-✍️ 169 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 246 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,901,555 Input Tokens, 63,198 Output Tokens
+🔤 12,628,021 Input Tokens, 65,988 Output Tokens
 
-💵 $17.42 Estimated AI Cost This Week
+💵 $34.19 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 51 AI Prompts
+🧠 18 AI Sessions, 35 AI Prompts
 
-Sonnet                   169 lines           █████████████████████████   100.00 % 
+Sonnet                   306 lines           █████████████████████████   100.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,856 characters per prompt
+📚 Verbose Prompter — average 7,709 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -159,5 +162,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:55:52 UTC
+ Last Updated on 30/07/2026 20:06:35 UTC
 <!--END_SECTION:waka-->
