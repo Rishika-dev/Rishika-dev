@@ -57,15 +57,15 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 59.7 kB Used in GitHub's Storage 
+> 📦 59.8 kB Used in GitHub's Storage 
  > 
 > 🏆 299 Contributions in the Year 2026
  > 
@@ -102,46 +102,41 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               26 mins             ██████████████████░░░░░░░   73.14 % 
-Markdown                 8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               57 mins             ██████████████████████░░░   86.98 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
 
 🔥 Editors: 
-Claude Code              35 mins             ████████████████████████░   97.66 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Claude Code              1 hr 5 mins         █████████████████████████   98.56 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🐱‍💻 Projects: 
-breazy-backend           20 mins             ██████████████░░░░░░░░░░░   55.70 % 
-odour-nest               10 mins             ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-breazy                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-breayz-frontend          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-observer-sessions        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+breazy-backend           58 mins             ██████████████████████░░░   88.62 % 
+breazy                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+breayz-frontend          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 💻 Operating System: 
-Mac                      36 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (100.0%)
+⏱ AI Coding Time: 1 hr 6 mins (100.0%)
 
-✍️ 246 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,628,021 Input Tokens, 65,988 Output Tokens
+🔤 24,054,150 Input Tokens, 116,940 Output Tokens
 
-💵 $34.19 Estimated AI Cost This Week
+💵 $73.92 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 35 AI Prompts
+🧠 2 AI Sessions, 12 AI Prompts
 
-Sonnet                   306 lines           █████████████████████████   100.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,377 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,709 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 95 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -162,5 +157,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:07:03 UTC
+ Last Updated on 01/08/2026 19:46:33 UTC
 <!--END_SECTION:waka-->
