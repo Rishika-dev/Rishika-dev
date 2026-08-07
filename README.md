@@ -57,10 +57,6 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%201%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -75,71 +71,6 @@
  > 
 > 🔑 35 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-🌆 Daytime                2040 commits        ███████████░░░░░░░░░░░░░░   44.95 % 
-🌃 Evening                1285 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-🌙 Night                  252 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  972 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Wednesday                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Thursday                 744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Friday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Saturday                 341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Sunday                   171 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               57 mins             ██████████████████████░░░   86.98 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-
-🔥 Editors: 
-Claude Code              1 hr 5 mins         █████████████████████████   98.56 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-
-🐱‍💻 Projects: 
-breazy-backend           58 mins             ██████████████████████░░░   88.62 % 
-breazy                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-breayz-frontend          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-
-💻 Operating System: 
-Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 6 mins (100.0%)
-
-✍️ 1,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 24,054,150 Input Tokens, 116,940 Output Tokens
-
-💵 $73.92 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 12 AI Prompts
-
-Sonnet                   1,377 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -157,5 +88,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 20:11:46 UTC
+ Last Updated on 07/08/2026 00:27:15 UTC
 <!--END_SECTION:waka-->
