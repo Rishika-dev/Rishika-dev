@@ -102,43 +102,40 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               51 mins             █████████████████████████   99.82 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               10 mins             █████████████████████████   99.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Claude Code              40 mins             ███████████████████░░░░░░   77.70 % 
-Cursor                   11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Cursor                   10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-breazy-backend           38 mins             ███████████████████░░░░░░   74.28 % 
-odour-nest               10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-breazy                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+odour-nest               10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      51 mins             █████████████████████████   100.00 % 
+Mac                      10 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (98.28%)
+⏱ AI Coding Time: 9 mins (91.59%)
 
-✍️ 1,190 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 83 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,404,718 Input Tokens, 88,996 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $50.55 Estimated AI Cost This Week
+💵 $16.85 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 14 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
-Sonnet                   1,147 lines         ███████████████████████░░   93.25 % 
-Composer                 83 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Composer                 83 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 106 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 126 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -159,5 +156,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:33:18 UTC
+ Last Updated on 08/08/2026 19:11:28 UTC
 <!--END_SECTION:waka-->
