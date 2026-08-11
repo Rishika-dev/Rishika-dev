@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -67,7 +67,7 @@
 
 > 📦 59.8 kB Used in GitHub's Storage 
  > 
-> 🏆 299 Contributions in the Year 2026
+> 🏆 311 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +78,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-🌆 Daytime                2040 commits        ███████████░░░░░░░░░░░░░░   44.95 % 
-🌃 Evening                1285 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
-🌙 Night                  252 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+🌞 Morning                961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+🌆 Daytime                2054 commits        ███████████░░░░░░░░░░░░░░   45.03 % 
+🌃 Evening                1294 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌙 Night                  252 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Tuesday                  972 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Wednesday                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-Thursday                 744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Friday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Saturday                 341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Sunday                   171 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Tuesday                  995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Wednesday                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Thursday                 744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Friday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Sunday                   171 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 
@@ -102,39 +102,43 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 mins             █████████████████████████   99.12 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               24 mins             ████████████████████████░   95.53 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Cursor                   10 mins             █████████████████████████   100.00 % 
+Cursor                   13 mins             █████████████░░░░░░░░░░░░   51.92 % 
+Claude Code              9 mins              █████████░░░░░░░░░░░░░░░░   35.30 % 
+Agent                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 
 🐱‍💻 Projects: 
-odour-nest               10 mins             █████████████████████████   100.00 % 
+odour-nest               25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (91.59%)
+⏱ AI Coding Time: 24 mins (94.27%)
 
-✍️ 83 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 134 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 37,768 Input Tokens, 5,076 Output Tokens
 
-💵 $16.85 Estimated AI Cost This Week
+💵 $17.30 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 4 AI Sessions, 8 AI Prompts
 
-Composer                 83 lines            █████████████████████████   100.00 % 
+Composer                 83 lines            ███████████████░░░░░░░░░░   61.94 % 
+Opus                     51 lines            ██████████░░░░░░░░░░░░░░░   38.06 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 126 characters per prompt
+📄 Detailed Prompter — average 600 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -142,11 +146,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               39 repos            ██████████████░░░░░░░░░░░   55.71 % 
-JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Solidity                 6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               39 repos            ██████████████░░░░░░░░░░░   54.93 % 
+JavaScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Solidity                 6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
@@ -156,5 +160,5 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:35:21 UTC
+ Last Updated on 11/08/2026 19:39:31 UTC
 <!--END_SECTION:waka-->
