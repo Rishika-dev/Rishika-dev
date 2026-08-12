@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2054%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -78,21 +78,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                961 commits         █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-🌆 Daytime                2054 commits        ███████████░░░░░░░░░░░░░░   45.03 % 
-🌃 Evening                1294 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-🌙 Night                  252 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+🌞 Morning                996 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+🌆 Daytime                2134 commits        ███████████░░░░░░░░░░░░░░   45.28 % 
+🌃 Evening                1328 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌙 Night                  255 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Tuesday                  995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Wednesday                962 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Thursday                 744 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Friday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 341 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Sunday                   171 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Monday                   801 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Tuesday                  1023 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+Wednesday                1000 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Thursday                 768 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Friday                   606 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+Sunday                   171 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 ```
 
 
@@ -102,44 +102,46 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               24 mins             ████████████████████████░   95.53 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               44 mins             ████████░░░░░░░░░░░░░░░░░   33.85 % 
+TSV                      40 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🔥 Editors: 
-Cursor                   13 mins             █████████████░░░░░░░░░░░░   51.92 % 
-Claude Code              9 mins              █████████░░░░░░░░░░░░░░░░   35.30 % 
-Agent                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Claude Code              1 hr 13 mins        ██████████████░░░░░░░░░░░   55.97 % 
+Agent                    38 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+Cursor                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
 
 🐱‍💻 Projects: 
-odour-nest               25 mins             █████████████████████████   100.00 % 
+aqi-cdac-frontend        1 hr 45 mins        ████████████████████░░░░░   80.57 % 
+odour-nest               25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (94.27%)
+⏱ AI Coding Time: 2 hrs 10 mins (98.89%)
 
-✍️ 134 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 617 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 37,768 Input Tokens, 5,076 Output Tokens
+🔤 268,900 Input Tokens, 66,370 Output Tokens
 
-💵 $17.30 Estimated AI Cost This Week
+💵 $23.67 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 8 AI Prompts
+🧠 7 AI Sessions, 38 AI Prompts
 
-Composer                 83 lines            ███████████████░░░░░░░░░░   61.94 % 
-Opus                     51 lines            ██████████░░░░░░░░░░░░░░░   38.06 % 
+Opus                     542 lines           ██████████████████████░░░   86.72 % 
+Composer                 83 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 600 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 784 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -160,5 +162,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:39:31 UTC
+ Last Updated on 12/08/2026 19:41:09 UTC
 <!--END_SECTION:waka-->
