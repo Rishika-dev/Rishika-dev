@@ -102,46 +102,46 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               44 mins             ████████░░░░░░░░░░░░░░░░░   33.85 % 
-TSV                      40 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
-YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+TSV                      40 mins             ████████░░░░░░░░░░░░░░░░░   33.26 % 
+TypeScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Git Config               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
 
 🔥 Editors: 
-Claude Code              1 hr 13 mins        ██████████████░░░░░░░░░░░   55.97 % 
-Agent                    38 mins             ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-Cursor                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Claude Code              1 hr 13 mins        ███████████████░░░░░░░░░░   60.86 % 
+Agent                    38 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Cursor                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🐱‍💻 Projects: 
-aqi-cdac-frontend        1 hr 45 mins        ████████████████████░░░░░   80.57 % 
-odour-nest               25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+aqi-cdac-frontend        1 hr 45 mins        ██████████████████████░░░   87.60 % 
+odour-nest               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 
 💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (98.89%)
+⏱ AI Coding Time: 2 hrs (99.52%)
 
-✍️ 617 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 534 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 268,900 Input Tokens, 66,370 Output Tokens
 
 💵 $23.67 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 38 AI Prompts
+🧠 5 AI Sessions, 34 AI Prompts
 
-Opus                     542 lines           ██████████████████████░░░   86.72 % 
-Composer                 83 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Opus                     542 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 784 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 861 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -162,5 +162,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:41:09 UTC
+ Last Updated on 13/08/2026 19:38:38 UTC
 <!--END_SECTION:waka-->
