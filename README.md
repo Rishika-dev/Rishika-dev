@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -102,47 +102,47 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TSV                      40 mins             ████████░░░░░░░░░░░░░░░░░   33.26 % 
-TypeScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-HTML                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Git Config               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+TypeScript               2 hrs 49 mins       ███████████████░░░░░░░░░░   61.28 % 
+TSV                      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-Claude Code              1 hr 13 mins        ███████████████░░░░░░░░░░   60.86 % 
-Agent                    38 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Cursor                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Agent                    2 hrs 16 mins       ████████████░░░░░░░░░░░░░   49.46 % 
+Claude Code              2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.72 % 
+Cursor                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🐱‍💻 Projects: 
-aqi-cdac-frontend        1 hr 45 mins        ██████████████████████░░░   87.60 % 
-odour-nest               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+odour-nest               2 hrs 50 mins       ███████████████░░░░░░░░░░   61.67 % 
+aqi-cdac-frontend        1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   38.33 % 
 
 💻 Operating System: 
-Mac                      2 hrs               █████████████████████████   100.00 % 
+Mac                      4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs (99.52%)
+⏱ AI Coding Time: 4 hrs 35 mins (99.52%)
 
-✍️ 534 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,301 lines written by AI, 5 lines written by hand (99.62% AI-written)
 
-🔤 268,900 Input Tokens, 66,370 Output Tokens
+🔤 1,088,762 Input Tokens, 157,966 Output Tokens
 
-💵 $23.67 Estimated AI Cost This Week
+💵 $30.51 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 34 AI Prompts
+🧠 13 AI Sessions, 80 AI Prompts
 
-Opus                     542 lines           █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     861 lines           ███████████████░░░░░░░░░░   58.18 % 
+Sonnet                   619 lines           ██████████░░░░░░░░░░░░░░░   41.82 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 861 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.62% of written lines came from AI
+📄 Detailed Prompter — average 1,369 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,5 +162,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:32:27 UTC
+ Last Updated on 15/08/2026 19:00:23 UTC
 <!--END_SECTION:waka-->
