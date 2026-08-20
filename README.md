@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
@@ -102,44 +102,48 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 43 mins       ██████████████████████░░░   86.31 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               4 hrs               ███████████████████░░░░░░   76.41 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Agent                    2 hrs 1 min         ████████████░░░░░░░░░░░░░   47.07 % 
-Claude Code              1 hr 59 mins        ████████████░░░░░░░░░░░░░   46.17 % 
-Cursor                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Agent                    2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.82 % 
+Claude Code              2 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.48 % 
+Cursor                   39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 
 🐱‍💻 Projects: 
-odour-nest               4 hrs 19 mins       █████████████████████████   100.00 % 
+odour-nest               5 hrs 12 mins       █████████████████████████   99.33 % 
+pitchanite-backend       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 8 mins (95.97%)
+⏱ AI Coding Time: 5 hrs (95.53%)
 
-✍️ 2,473 lines written by AI, 5 lines written by hand (99.8% AI-written)
+✍️ 2,588 lines written by AI, 7 lines written by hand (99.73% AI-written)
 
-🔤 1,263,733 Input Tokens, 173,596 Output Tokens
+🔤 1,373,850 Input Tokens, 213,235 Output Tokens
 
-💵 $11.43 Estimated AI Cost This Week
+💵 $13.37 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 82 AI Prompts
+🧠 21 AI Sessions, 116 AI Prompts
 
-Sonnet                   2,348 lines         ██████████████████████░░░   88.04 % 
-Opus                     319 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Sonnet                   2,379 lines         █████████████████████░░░░   85.48 % 
+Opus                     404 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 1,806 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+🤖 AI-Driven — 99.73% of written lines came from AI
+📚 Verbose Prompter — average 2,175 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,5 +163,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:07:13 UTC
+ Last Updated on 20/08/2026 19:14:02 UTC
 <!--END_SECTION:waka-->
