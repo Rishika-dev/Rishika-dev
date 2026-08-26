@@ -123,31 +123,6 @@ Unknown Project          19 mins             █░░░░░░░░░░�
 💻 Operating System: 
 Mac                      6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 2 mins (98.53%)
-
-✍️ 9,916 lines written by AI, 64 lines written by hand (99.36% AI-written)
-
-🔤 1,559,520 Input Tokens, 441,711 Output Tokens
-
-💵 $29.76 Estimated AI Cost This Week
-
-🧠 24 AI Sessions, 165 AI Prompts
-
-Opus                     7,353 lines         ██████████████████░░░░░░░   72.49 % 
-Sonnet                   2,790 lines         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.36% of written lines came from AI
-📚 Verbose Prompter — average 2,043 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.64% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
