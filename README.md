@@ -102,50 +102,50 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 36 mins       ████████████████░░░░░░░░░   65.20 % 
-Other                    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript               4 hrs 36 mins       █████████████████░░░░░░░░   68.55 % 
+Other                    1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Agent                    3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
-Claude Code              3 hrs 8 mins        ███████████░░░░░░░░░░░░░░   44.38 % 
-Cursor                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Agent                    3 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.55 % 
+Claude Code              2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.51 % 
+Cursor                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 🐱‍💻 Projects: 
-aqi-cdac-v2              4 hrs 4 mins        ██████████████░░░░░░░░░░░   57.61 % 
-odour-nest               1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-airquality-nest-master   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-pitchanite-backend       24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+aqi-cdac-v2              4 hrs 4 mins        ███████████████░░░░░░░░░░   60.57 % 
+odour-nest               1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+airquality-nest-master   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+pitchanite-backend       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Mac                      7 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 1 min (99.3%)
+⏱ AI Coding Time: 6 hrs 40 mins (99.27%)
 
-✍️ 5,686 lines written by AI, 62 lines written by hand (98.92% AI-written)
+✍️ 2,567 lines written by AI, 62 lines written by hand (97.64% AI-written)
 
-🔤 1,792,962 Input Tokens, 342,002 Output Tokens
+🔤 1,657,480 Input Tokens, 282,688 Output Tokens
 
-💵 $20.55 Estimated AI Cost This Week
+💵 $17.10 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 176 AI Prompts
+🧠 28 AI Sessions, 167 AI Prompts
 
-Opus                     3,119 lines         █████████████░░░░░░░░░░░░   53.29 % 
-Sonnet                   2,734 lines         ████████████░░░░░░░░░░░░░   46.71 % 
+Sonnet                   2,734 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.92% of written lines came from AI
-📚 Verbose Prompter — average 1,600 characters per prompt
+🤖 AI-Driven — 97.64% of written lines came from AI
+📚 Verbose Prompter — average 1,545 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.05% of changed lines were hand-edited
+🚀 High AI Trust — 2.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -165,5 +165,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:08:12 UTC
+ Last Updated on 30/08/2026 21:26:42 UTC
 <!--END_SECTION:waka-->
