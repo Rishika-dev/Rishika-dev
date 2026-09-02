@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-227%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-97%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -102,44 +102,43 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       █████████████████████░░░░   83.41 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TypeScript               2 hrs 5 mins        ███████████████████████░░   91.67 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Claude Code              1 hr 44 mins        ████████████░░░░░░░░░░░░░   48.98 % 
-Agent                    1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   38.77 % 
-Cursor                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Claude Code              1 hr 19 mins        ███████████████░░░░░░░░░░   58.06 % 
+Agent                    50 mins             █████████░░░░░░░░░░░░░░░░   37.05 % 
+Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🐱‍💻 Projects: 
-aqi-cdac-v2              2 hrs 39 mins       ███████████████████░░░░░░   74.78 % 
-odour-nest               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-pitchanite-backend       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+aqi-cdac-v2              1 hr 43 mins        ███████████████████░░░░░░   75.57 % 
+pitchanite-backend       24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+odour-nest               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 💻 Operating System: 
-Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 32 mins (99.34%)
+⏱ AI Coding Time: 2 hrs 16 mins (100.0%)
 
-✍️ 1,446 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,027 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 979,717 Input Tokens, 144,222 Output Tokens
+🔤 886,376 Input Tokens, 117,250 Output Tokens
 
-💵 $9.61 Estimated AI Cost This Week
+💵 $7.16 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 88 AI Prompts
+🧠 17 AI Sessions, 65 AI Prompts
 
-Sonnet                   1,523 lines         █████████████████████████   100.00 % 
+Sonnet                   1,096 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,190 characters per prompt
+📚 Verbose Prompter — average 2,684 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -161,5 +160,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:17:29 UTC
+ Last Updated on 02/09/2026 21:15:56 UTC
 <!--END_SECTION:waka-->
