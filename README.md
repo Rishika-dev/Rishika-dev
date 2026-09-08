@@ -61,7 +61,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -102,47 +102,47 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 41 mins             █████████████████░░░░░░░░   67.21 % 
-TypeScript               15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Markdown                 41 mins             ██████████████████░░░░░░░   71.86 % 
+TypeScript               15 mins             ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Agent                    28 mins             ███████████░░░░░░░░░░░░░░   45.51 % 
-Claude Code              28 mins             ███████████░░░░░░░░░░░░░░   45.45 % 
-Cursor                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Agent                    27 mins             ████████████░░░░░░░░░░░░░   48.21 % 
+Claude Code              24 mins             ███████████░░░░░░░░░░░░░░   42.27 % 
+Cursor                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 
 🐱‍💻 Projects: 
-aqi-cdac-v2              18 mins             ████████░░░░░░░░░░░░░░░░░   30.52 % 
-opensource-contribution  16 mins             ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-fastify                  12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Unknown Project          11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-odour-nest               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+opensource-contribution  16 mins             ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+aqi-cdac-v2              15 mins             ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+fastify                  12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Unknown Project          10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+odour-nest               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-Mac                      1 hr 1 min          █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 1 min (100.0%)
+⏱ AI Coding Time: 57 mins (100.0%)
 
 ✍️ 821 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 288,996 Input Tokens, 63,991 Output Tokens
+🔤 172,347 Input Tokens, 52,582 Output Tokens
 
-💵 $3.38 Estimated AI Cost This Week
+💵 $2.82 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 38 AI Prompts
+🧠 9 AI Sessions, 32 AI Prompts
 
 Sonnet                   821 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,884 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 5,495 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -163,5 +163,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:46:32 UTC
+ Last Updated on 08/09/2026 21:24:40 UTC
 <!--END_SECTION:waka-->
