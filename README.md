@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -102,47 +102,49 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 40 mins             ████████████████████████░   97.95 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   3 hrs 1 min         ████████████████░░░░░░░░░   62.57 % 
+Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Agent                    20 mins             ████████████░░░░░░░░░░░░░   49.45 % 
-Claude Code              16 mins             ██████████░░░░░░░░░░░░░░░   39.63 % 
-Cursor                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Claude Code              1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
+Agent                    1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   36.83 % 
+Cursor                   1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
 
 🐱‍💻 Projects: 
-opensource-contribution  16 mins             ██████████░░░░░░░░░░░░░░░   38.81 % 
-fastify                  12 mins             ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Unknown Project          10 mins             ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-observer-sessions        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-open-source-sprint       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+livekit                  1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
+voice-mvp-webrtc         1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+livekit-voice-agent      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+voice-mvp                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 24 mins (91.26%)
 
-✍️ 762 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,330 lines written by AI, 84 lines written by hand (96.52% AI-written)
 
-🔤 96,869 Input Tokens, 43,702 Output Tokens
+🔤 1,930,010 Input Tokens, 361,536 Output Tokens
 
-💵 $2.28 Estimated AI Cost This Week
+💵 $37.26 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 16 AI Prompts
+🧠 41 AI Sessions, 151 AI Prompts
 
-Sonnet                   762 lines           █████████████████████████   100.00 % 
+Sonnet                   2,599 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,835 characters per prompt
+🤖 AI-Driven — 96.52% of written lines came from AI
+📚 Verbose Prompter — average 13,334 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 7.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,5 +164,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:12:59 UTC
+ Last Updated on 12/09/2026 20:52:01 UTC
 <!--END_SECTION:waka-->
