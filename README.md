@@ -59,7 +59,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -102,47 +102,47 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 1 min         ████████████████░░░░░░░░░   62.57 % 
-Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Python                   3 hrs 1 min         ███████████████░░░░░░░░░░   60.10 % 
+Markdown                 44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🔥 Editors: 
-Claude Code              1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
-Agent                    1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   36.83 % 
-Cursor                   1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Claude Code              1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
+Agent                    1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   37.52 % 
+Cursor                   1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
 
 🐱‍💻 Projects: 
-livekit                  1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.36 % 
-voice-mvp-webrtc         1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-livekit-voice-agent      40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-voice-mvp                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+livekit                  1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   37.81 % 
+voice-mvp-webrtc         1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+livekit-voice-agent      40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+voice-mvp                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Unknown Project          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
 
 💻 Operating System: 
-Mac                      4 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (91.26%)
+⏱ AI Coding Time: 4 hrs 36 mins (91.6%)
 
 ✍️ 2,330 lines written by AI, 84 lines written by hand (96.52% AI-written)
 
-🔤 1,930,010 Input Tokens, 361,536 Output Tokens
+🔤 1,964,470 Input Tokens, 366,894 Output Tokens
 
-💵 $37.26 Estimated AI Cost This Week
+💵 $37.52 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 151 AI Prompts
+🧠 44 AI Sessions, 157 AI Prompts
 
 Sonnet                   2,599 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.52% of written lines came from AI
-📚 Verbose Prompter — average 13,334 characters per prompt
+📚 Verbose Prompter — average 13,117 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 7.24% of changed lines were hand-edited
 ```
@@ -164,5 +164,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:52:01 UTC
+ Last Updated on 13/09/2026 21:06:30 UTC
 <!--END_SECTION:waka-->
