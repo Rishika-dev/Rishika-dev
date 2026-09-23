@@ -69,8 +69,6 @@
  > 
 > 🏆 372 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 27 Public Repositories 
  > 
 > 🔑 36 Private Repositories 
