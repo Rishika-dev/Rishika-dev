@@ -57,9 +57,9 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
@@ -67,7 +67,7 @@
 
 > 📦 60.1 kB Used in GitHub's Storage 
  > 
-> 🏆 445 Contributions in the Year 2026
+> 🏆 446 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,79 +75,6 @@
  > 
 > 🔑 37 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1012 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-🌆 Daytime                2312 commits        ███████████░░░░░░░░░░░░░░   45.63 % 
-🌃 Evening                1484 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌙 Night                  259 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   837 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Tuesday                  1086 commits        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Wednesday                1013 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Thursday                 876 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Friday                   736 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Saturday                 343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Sunday                   176 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    5 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-Markdown                 4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-Python                   2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-JavaScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-HTML                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-
-🔥 Editors: 
-Claude Code              13 hrs 43 mins      ███████████████████░░░░░░   76.66 % 
-Agent                    2 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Cursor                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-
-🐱‍💻 Projects: 
-eventyay                 3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-opensource-contribution  3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
-fury                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-zulip                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-automera                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-
-💻 Operating System: 
-Mac                      17 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 hrs 53 mins (99.93%)
-
-✍️ 4,348 lines written by AI, 2 lines written by hand (99.95% AI-written)
-
-🔤 7,386,057 Input Tokens, 1,178,051 Output Tokens
-
-💵 $253.01 Estimated AI Cost This Week
-
-🧠 123 AI Sessions, 401 AI Prompts
-
-Opus                     3,281 lines         ███████████████████░░░░░░   75.56 % 
-Sonnet                   1,061 lines         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📚 Verbose Prompter — average 17,951 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -165,5 +92,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 23:01:04 UTC
+ Last Updated on 30/09/2026 22:57:36 UTC
 <!--END_SECTION:waka-->
