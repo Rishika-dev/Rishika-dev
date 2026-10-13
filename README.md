@@ -61,13 +61,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 60.3 kB Used in GitHub's Storage 
  > 
-> 🏆 541 Contributions in the Year 2026
+> 🏆 542 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,21 +78,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1162 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-🌆 Daytime                2695 commits        █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌃 Evening                2439 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌙 Night                  873 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌞 Morning                1192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌆 Daytime                2725 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
+🌃 Evening                2623 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
+🌙 Night                  996 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Tuesday                  1382 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Wednesday                1025 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 1118 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Friday                   1065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday                 361 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Sunday                   1072 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Monday                   1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Tuesday                  1400 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Wednesday                1035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 1154 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Friday                   1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Saturday                 346 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Sunday                   1236 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 ```
 
 
@@ -102,46 +102,46 @@ Sunday                   1072 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.51 % 
-Markdown                 2 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.38 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Markdown                 2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.43 % 
+Other                    2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
+JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+Diff                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 45 mins       ████████████████████████░   96.67 % 
-Cursor                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Claude Code              4 hrs 51 mins       ████████████████████████░   97.45 % 
+Cursor                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 🐱‍💻 Projects: 
-automera                 2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.67 % 
-kolibri                  2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.73 % 
-opensource-contribution  1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-fury                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-observer-sessions        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+kolibri                  1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+automera                 1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+opensource-contribution  1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+fury                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+observer-sessions        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 💻 Operating System: 
-Mac                      6 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 58 mins (100.0%)
 
-✍️ 1,378 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 783 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,324,901 Input Tokens, 749,266 Output Tokens
+🔤 7,207,758 Input Tokens, 477,020 Output Tokens
 
-💵 $167.02 Estimated AI Cost This Week
+💵 $105.94 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 108 AI Prompts
+🧠 23 AI Sessions, 70 AI Prompts
 
-Opus                     1,379 lines         █████████████████████████   100.00 % 
+Opus                     784 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,645 characters per prompt
+📚 Verbose Prompter — average 14,980 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -163,5 +163,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Rishika-dev/Rishika-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:46:35 UTC
+ Last Updated on 13/10/2026 01:24:50 UTC
 <!--END_SECTION:waka-->
